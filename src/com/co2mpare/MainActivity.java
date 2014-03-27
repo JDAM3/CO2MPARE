@@ -17,6 +17,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import com.co2mpare.logic.*;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -48,6 +49,8 @@ public class MainActivity extends ActionBarActivity {
 		mViewPager = (ViewPager) findViewById(R.id.pager);
 		mViewPager.setAdapter(mSectionsPagerAdapter);
 
+		GoogleDirections.calcRoute("Innsbruck", "Wien");
+		
 	}
 
 	@Override
