@@ -54,7 +54,7 @@ public class MainActivity extends ActionBarActivity {
 		mViewPager.setAdapter(mSectionsPagerAdapter);
 
 		GoogleDirections.calcRoute("Innsbruck", "Wien");
-		
+
 	}
 
 	@Override
