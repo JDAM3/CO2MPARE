@@ -1,6 +1,6 @@
 package com.co2mpare.interfaces;
 
-import com.co2mpare.logic.RoutePTE;
+import com.co2mpare.RouteCalc.RoutePTE;
 import com.google.android.gms.maps.model.LatLng;
 
 public interface PTEinterface {

@@ -1,6 +1,6 @@
 package com.co2mpare.interfaces;
 
-import com.co2mpare.logic.RouteGM;
+import com.co2mpare.RouteCalc.RouteGM;
 import com.google.android.gms.maps.model.LatLng;
 
 public interface GMinterface {

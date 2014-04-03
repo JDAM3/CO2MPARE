@@ -6,5 +6,6 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/public-transport-enabler"/>
+	<classpathentry kind="lib" path="D:/workspace/CO2MPARE/libs/androidplot-core-0.6.0.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
