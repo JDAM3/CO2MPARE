@@ -1,5 +1,5 @@
 package com.co2mpare.logic;
 
-public class GoogleMap {
+public class Route {
 
 }
